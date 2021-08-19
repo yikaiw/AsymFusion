@@ -5,16 +5,16 @@ By Yikai Wang, Fuchun Sun, Ming Lu, Anbang Yao.
 
 
 ## Dependencies
-
-- python==3.6.2
-- pytorch==1.0.0
-- torchvision==0.2.2
-- imageio==2.4.1
-- numpy==1.16.2
-- scikit-learn==0.20.2
-- scipy==1.1.0
-- opencv-python==4.0
-
+```
+python==3.6.2
+pytorch==1.0.0
+torchvision==0.2.2
+imageio==2.4.1
+numpy==1.16.2
+scikit-learn==0.20.2
+scipy==1.1.0
+opencv-python==4.0.0
+```
 
 ## Datasets
 
