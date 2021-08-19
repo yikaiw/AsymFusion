@@ -3,6 +3,10 @@
 By Yikai Wang, Fuchun Sun, Ming Lu, Anbang Yao.
 
 
+## Datasets
+
+For semantic segmentation task on NYUDv2 ([official dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)), we provide a link to download the dataset [here](https://drive.google.com/drive/folders/1mXmOXVsd5l9-gYHk92Wpn6AcKAbE0m3X?usp=sharing). The provided dataset is originally preprocessed in this [repository](https://github.com/DrSleep/light-weight-refinenet), and we add depth data in it. Please modify the data paths in the codes, where we add comments 'Modify data path'.
+
 
 ## Dependencies
 ```
@@ -16,9 +20,6 @@ scipy==1.1.0
 opencv-python==4.0.0
 ```
 
-## Datasets
-
-For semantic segmentation task on NYUDv2 ([official dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)), we provide a link to download the dataset [here](https://drive.google.com/drive/folders/1mXmOXVsd5l9-gYHk92Wpn6AcKAbE0m3X?usp=sharing). The provided dataset is originally preprocessed in this [repository](https://github.com/DrSleep/light-weight-refinenet), and we add depth data in it. Please modify the data paths in the codes, where we add comments 'Modify data path'.
 
 ## Scripts
 
